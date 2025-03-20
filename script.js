@@ -25,7 +25,9 @@ const content = {
   Le BTS SIO s'emblait m’offrir un bon équilibre entre <strong>encadrement pédagogique</strong>, 
   <strong>projets pratiques</strong> et <strong>bases solides en développement</strong>.
 </p>
-    <h2> Compétences acquises durant le BTS</h2>
+
+
+   <h2> Compétences acquises durant le BTS</h2>
   <p> J'ai appris a créé et gérer un projet du début à la fin.
       J'ai également acquis des compétences techniques en programmation en travaillant avec 
       plusieurs langage de programmation comme python, Html, CSS, JavaScript et PHP.
