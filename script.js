@@ -28,7 +28,7 @@ const content = {
   <p> J'ai appris a créé et gérer un projet du début à la fin.
       J'ai également acquis des compétences techniques en programmation en travaillant avec 
       plusieurs langage de programmation comme python, Html, CSS, JavaScript et PHP.
-
+  </p>
   `,
   avenir: `
     <h2>Veille technologique</h2>
