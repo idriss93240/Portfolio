@@ -33,7 +33,7 @@ const content = {
        J'ai également acquis des compétences techniques en programmation en travaillant avec 
        plusieurs langage de programmation comme python, Html, CSS, JavaScript et PHP.
        </p>
-  `,
+   `,
   avenir: `
     <h2>Veille technologique</h2>
     <p>
